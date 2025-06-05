@@ -14,3 +14,6 @@ Estilos:
 Gestão de utilizadores:
 - rafael
 - romeu
+
+Link da pasta do wordpress:
+https://aehn-my.sharepoint.com/:u:/g/personal/a3517_aehn_net/Eb1zhh2bNpZPs-Pc6pJEEGkBUCXO_ZcXG-fTfRgYLhcoNw?e=5EgvxM
